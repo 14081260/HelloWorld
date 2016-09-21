@@ -1,6 +1,6 @@
 var i = 0;
 var j = 0;
-var n = 5;
+var n = 3;
 var line = 0;
 var a = "";
 var b = "";
